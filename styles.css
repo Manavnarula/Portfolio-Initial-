@@ -1,0 +1,385 @@
+body {
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #0F1E25;
+
+}
+
+
+
+.footer {
+    position: static;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #184D47;
+    max-width: 1400px;
+    margin: auto;
+
+}
+
+.footer-padding {
+    padding-bottom: 60px;
+}
+
+
+
+.footer p {
+    margin-top: 25px;
+    font-size: 12px;
+    color: #fff;
+    padding: 20px;
+}
+
+.greetings {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Bree Serif', serif;
+    color: #184D47;
+}
+
+.igFashion {
+    height: 450px;
+    width: 260px;
+    margin: -10px;
+    border: 1px solid white;
+}
+
+.igfirst {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 5px 5px 5px;
+}
+
+.igsecond {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10 px 15px 5px 12px;
+
+
+}
+
+.igthird {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 15px 5px 5px;
+
+
+}
+
+.igfourth {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 15px 5px 5px;
+}
+
+.igpuzzle {
+    height: 350px;
+    width: 350px;
+    border: 1px solid white;
+    margin: 5px 4px 5px 4px;
+    padding: 0px;
+}
+
+.imagePara {
+    text-align: center;
+    margin: 5px;
+}
+
+.innerTable {
+    margin: 5px 5px 5px -20px;
+}
+
+.innerTableNews {
+    text-align: center;
+    margin: 10px 5px 5px 60px;
+
+}
+
+.innerTablePuzzle1 {
+    margin: 5px 5px 5px 10px
+}
+
+.innerTablePuzzle2 {
+    margin: 100px 5px 5px 10px
+}
+
+.innerTablePuzzle3 {
+    margin: 100px 5px 5px 10px
+}
+
+.innerTablePuzzle4 {
+    margin: 100px 5px 5px 10px
+}
+
+.intro {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 10rem;
+    font-family: 'Pacifico', cursive;
+    color: #184D47;
+
+}
+
+
+.nletter1 {
+    width: 33%;
+    color: white;
+    padding: 20px;
+    margin: 10px 5px 5px 5px;
+}
+
+
+
+.newsletter {
+    height: 450px;
+    width: 300px;
+    margin: -10px;
+    border: 1px solid white;
+}
+
+.open {
+    text-align: center;
+    max-width: 1400px;
+    margin: auto;
+
+}
+
+.pfirst {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 5px 5px 5px;
+}
+
+.psecond {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10 px 15px 5px 12px;
+
+
+}
+
+.pthird {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 15px 5px 5px;
+
+
+}
+
+.pfourth {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 15px 5px 5px;
+}
+
+.puzFirst {
+    width: 33%;
+    color: white;
+    margin: 10px 5px 5px 5px;
+
+}
+
+.puzsecond {
+    width: 33%;
+    color: white;
+    margin: 1px 5px 5px 5px;
+}
+
+puzsThird {
+    width: 33%;
+    color: white;
+    margin: 1px 5px 5px 5px;
+
+}
+
+.poster {
+    height: 400px;
+    width: 260px;
+    margin: -10px;
+    border: 1px solid white;
+}
+
+.projects {
+    max-width: 1400px;
+    border-radius: 10px;
+    margin: 100px auto 420px auto;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.projectHeading {
+    font-size: 4.5rem;
+    font-family: 'Luckiest Guy', cursive;
+    color: #184D47;
+
+}
+
+.projectSubHeading {
+    font-size: 5.5rem;
+    font-family: 'Luckiest Guy', cursive;
+    color: #184D47;
+}
+
+.scroll {
+    margin-top: -10px;
+    height: 80px;
+    width: 80px;
+}
+
+.table {
+    padding: 30px;
+    margin: 10px 5px 10px 1px;
+}
+
+.tablePuzzle {
+    padding: 30px;
+    margin: 10px 5px 10px -5px;
+}
+
+
+.tableHeading1 {
+    color: white;
+    margin: 5px 5px 30px 10px;
+    font-size: 5rem;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+
+}
+
+.tableHeading2 {
+    color: #053742;
+    margin: 5px 5px 30px 10px;
+    font-size: 5rem;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+
+}
+
+.tableHeading3 {
+    color: white;
+    margin: 5px 5px 30px 10px;
+    font-size: 5rem;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+
+}
+
+.tableHeading4 {
+    color: white;
+    margin: 5px 5px 40px 10px;
+    font-size: 5rem;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+}
+
+.tableHeading5 {
+    color: white;
+    margin: 5px 5px 30px 10px;
+    font-size: 5rem;
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+}
+
+.templates1 {
+    display: flex;
+    border-radius: 10px;
+    background-color: #184D47;
+    margin: 150px auto auto auto;
+
+}
+
+.templates2 {
+    display: flex;
+    border-radius: 10px;
+    background-color: #EEEEEE;
+    margin: 100px auto auto auto;
+}
+
+.templates3 {
+    display: flex;
+    border-radius: 10px;
+    background-color: #184D47;
+    margin: 100px auto auto auto;
+}
+
+.templates4 {
+
+    border-radius: 10px;
+    background-color: #184D47;
+    margin: 100px auto auto auto;
+}
+
+.templates5 {
+    display: flex;
+    border-radius: 10px;
+    background-color: #184D47;
+    margin: 100px auto auto auto;
+}
+
+.textBox {
+    margin: 10px 5px 10px 0px;
+    max-width: 1400px;
+    width: 100%;
+}
+
+.tyfirst {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 5px 5px 5px;
+}
+
+.tysecond {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10 px 15px 5px 12px;
+}
+
+.tythird {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 15px 5px 5px;
+}
+
+.tyfourth {
+    width: 25%;
+    color: white;
+    padding: 20px;
+    margin: 10px 15px 5px 5px;
+}
+
+
+.thankyou {
+    height: 450px;
+    width: 260px;
+    margin: -10px;
+    border: 1px solid white;
+}
+
+
+
+
+
+@media (max-width: 1200px) {
+   
+
+
+
+}
